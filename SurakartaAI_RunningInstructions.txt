@@ -1,0 +1,9 @@
+To run the game of Surakarta you need an interpreter of python.
+You also need the packages 'pygame' and 'numpy' which you can download with:
+pip install numpy
+pip install pygame
+
+Now to run our code type:
+python3 Main.py
+
+and follow the instructions on the screen to choose players.
